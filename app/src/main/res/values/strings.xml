@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">QueasyApp</string>
+
+    <string name="btn_add_quiz">ADD QUIZ</string>
+    <string name="btn_choose_quiz">CHOOSE QUIZ</string>
+    <string name="btn_account">ACCOUNT</string>
+    <string name="btn_log_out">LOG OUT</string>
+
+
+    <string name="btn_log_in">LOG IN</string>
+    <string name="login">Login:</string>
+    <string name="password">Password:</string>
+    <string name="btn_register">REGISTER</string>
+
+
+    <string name="nick">Nick:</string>
+    <string name="email">Email:</string>
+    <string name="repeat_password">Repeat password:</string>
+    <string name="age">Age:</string>
+
+
+    <string name="btn_edit">Edit</string>
+    <string name="btn_share">Share</string>
+    <string name="btn_play">Play</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_history">History</string>
+</resources>
